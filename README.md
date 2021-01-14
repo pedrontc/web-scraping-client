@@ -6,6 +6,9 @@
 <p>Web Scraping feito com Ruby onde ele utilza a gem mechanze e pega informações dos produtos de uma página web simples feita com Rails para esse teste, e coloca os dados em um arquivo txt</p>
 
 **Arquivo com as informações dos produtos**
-![](/public/prints_for_github/print1.png)
+
+![](./Web-Scraping-Target/public/prints_for_github/print1.png)
+
 **Página web usada para teste**
-![](/public/prints_for_github/print2.png)
+
+![](./Web-Scraping-Target/public/prints_for_github/print2.png)
